@@ -1,0 +1,13 @@
+{
+  "name": "swade_pt-BR",
+  "title": "Translation: Brazilian Portuguese [SWADE]",
+  "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo SWADE.</p><p>Obs. Esse módulo traduz somente os termos relacionados ao sistema de SWADE. Esse módulo não traduz outras partes do FoundryVTT, como a interface principal.</p>",
+  "author": "Xina, Felipe Figueiredo",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0", 
+  "compatibleCoreVersion": "9", 
+  "languages": [{"lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json"}], 
+  "url": "https://gitlab.com/foundryvtt-pt-br/swade/",
+  "manifest": "https://gitlab.com/foundryvtt-pt-br/swade/-/raw/master/swade_pt-BR/module.json",
+  "download": "https://gitlab.com/foundryvtt-pt-br/swade/-/archive/master/swade-master.zip?path=swade_pt-BR",
+  "esmodules": ["babele.js"] }
