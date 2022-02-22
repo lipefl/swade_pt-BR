@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.5.0", 
   "compatibleCoreVersion": "9", 
   "languages": [{"lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json"}], 
-  "url": "https://gitlab.com/foundryvtt-pt-br/swade/",
-  "manifest": "https://gitlab.com/foundryvtt-pt-br/swade/-/raw/master/swade_pt-BR/module.json",
-  "download": "https://gitlab.com/foundryvtt-pt-br/swade/-/archive/master/swade-master.zip?path=swade_pt-BR",
+  "url": "https://github.com/lipefl/swade_pt-BR",
+  "manifest": "https://raw.githubusercontent.com/lipefl/swade_pt-BR/main/module.json",
+  "download": "https://github.com/lipefl/swade_pt-BR/archive/refs/heads/main.zip",
   "esmodules": ["babele.js"] }
