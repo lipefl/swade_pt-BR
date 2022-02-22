@@ -1,6 +1,6 @@
 {
   "name": "swade_pt-BR",
-  "title": "Translation: Brazilian Portuguese [SWADE]",
+  "title": "SWADE Brazilian Portuguese PTBR (Translation)",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo SWADE.</p><p>Obs. Esse módulo traduz somente os termos relacionados ao sistema de SWADE. Esse módulo não traduz outras partes do FoundryVTT, como a interface principal.</p>",
   "author": "Xina, Felipe Figueiredo",
   "version": "1.0.0",
